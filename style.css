@@ -1,0 +1,98 @@
+body{
+    box-sizing: border-box;
+    background-color: rgb(251, 255, 252);
+    
+}
+
+.btn{
+    border-radius: 30px;
+}
+.container {
+    background-color:  rgb(219, 211, 233);
+    
+}
+
+.card{
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px ;
+}
+
+
+.fa-terminal{
+color: yellow;
+}
+.fa-git{
+    color: red;
+}
+
+.fa-github{
+    color: blue;
+}
+
+.fa-html5{
+    color: brown;
+}
+
+.fa-css3{
+    color: green;
+}
+
+.fa-free-code-camp{
+    color: aqua;
+}
+
+.fa-code{
+    color: orangered;
+}
+
+.fa-archive {
+    color: gold;
+}
+
+
+#terminal{
+    background-color: rgb(226, 217, 233);
+    border-radius: 2em;
+}
+
+#git{
+    background-color: rgb(226, 217, 233);
+    border-radius: 2em;
+}
+
+#github{
+    background-color: rgb(226, 217, 233);
+    border-radius: 2em;
+}
+
+
+#html{
+    background-color: rgb(226, 217, 233);
+    border-radius: 2em;
+}
+
+
+#css{
+    background-color: rgb(226, 217, 233);
+    border-radius: 2em;
+}
+
+
+#code-camp{
+    background-color: rgb(226, 217, 233);
+    border-radius: 2em;
+}
+
+
+#code{
+    background-color: rgb(226, 217, 233);
+    border-radius: 2em;
+}
+
+
+#archive{
+    background-color: rgb(226, 217, 233);
+    border-radius: 2em;
+    
+}
+ 
